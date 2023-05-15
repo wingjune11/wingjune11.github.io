@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "wingjune",
+	"description": "An node.js project deployed with Render for learning backend devs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
