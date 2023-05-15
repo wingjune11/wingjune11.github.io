@@ -4,6 +4,7 @@
 	"description": "An node.js project deployed with Render for learning backend devs",
 	"keywords": ["freecodecamp", "node.js", "rendor", "backend", "git"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
